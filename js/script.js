@@ -427,7 +427,7 @@ scene.background = new THREE.Color('black');
 
 {
   const objLoader = new OBJLoader();
-  objLoader.load('assets/rocket.obj', (root) => {
+  objLoader.load('assets/smallrocket.obj', (root) => {
     bunny = root;
     scene.add(root);
   });
