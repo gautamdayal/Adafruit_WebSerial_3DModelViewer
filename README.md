@@ -1,4 +1,5 @@
-# Adafruit WebSerial 3D Model Viewer
+# Adafruit WebSerial 3D Model Viewer (Replaced model with Rocket)
+updated site https://gautamdayal.github.io/Adafruit_WebSerial_3DModelViewer/
 Source files for the Adafruit WebSerial 3D Model Viewer available at: https://adafruit.github.io/Adafruit_WebSerial_3DModelViewer/. This is the web end for the Adafruit AHRS calibrated_orientation sketch.
 
 ## Adafruit Learn Guide
